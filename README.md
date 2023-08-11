@@ -9,6 +9,10 @@
 202105867 - VICTOR EMANUEL DA SILVA MONTEIRO
 
 
+
+
+
+
 ## Entregas
 
 W16 – Contém a primeira parte do relatório técnico com descrição do problema e proposta de solução.
