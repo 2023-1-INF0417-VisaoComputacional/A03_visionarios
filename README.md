@@ -20,4 +20,5 @@ Adicionadas as Seções I e II (Introdução e Fundamentos teóricos). Foi inclu
 
 W17 - Contém relatório técnico, notebook e slides.
 Adicionadas as seções III e IV (Metodologia, Resultados e Conclusões).
+Link do vídeo de apresentação: https://youtu.be/joLUeVVGigA
 
