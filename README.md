@@ -15,8 +15,6 @@
 
 ## Entregas
 
-# Relatório do Projeto - Pesquisa em IA
-
 ## W16
 - O trabalho desta etapa contém a primeira parte do relatório técnico, incluindo a descrição do problema e a proposta de solução.
 - Foram adicionadas as Seções I e II (Introdução e Fundamentos Teóricos).
