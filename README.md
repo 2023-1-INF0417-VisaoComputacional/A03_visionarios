@@ -21,4 +21,5 @@ Adicionadas as Seções I e II (Introdução e Fundamentos teóricos). Foi inclu
 W17 - Contém relatório técnico, notebook e slides.
 Adicionadas as seções III e IV (Metodologia, Resultados e Conclusões).
 Link do vídeo de apresentação: https://youtu.be/joLUeVVGigA
+Link dos slides: https://www.canva.com/design/DAFr0f4UmkE/afFkT4kQKTlkwEoZhniizg/edit?utm_content=DAFr0f4UmkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
