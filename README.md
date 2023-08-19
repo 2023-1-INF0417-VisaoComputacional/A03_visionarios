@@ -15,13 +15,15 @@
 
 ## Entregas
 
-W16 – Contém a primeira parte do relatório técnico com descrição do problema e proposta de solução.
-Adicionadas as Seções I e II (Introdução e Fundamentos teóricos). Foi inclusa também uma breve revisão bibliográfica sobre o tema.
+# Relatório do Projeto - Pesquisa em IA
 
-W17 - Contém relatório técnico, notebook e slides.
-Adicionadas as seções III e IV (Metodologia, Resultados e Conclusões).
+## Semana 16
+- O trabalho desta semana contém a primeira parte do relatório técnico, incluindo a descrição do problema e a proposta de solução.
+- Foram adicionadas as Seções I e II (Introdução e Fundamentos Teóricos).
+- Além disso, foi incluída uma breve revisão bibliográfica sobre o tema.
 
-Link do vídeo de apresentação: https://youtu.be/joLUeVVGigA
-
-Link dos slides: https://www.canva.com/design/DAFr0f4UmkE/afFkT4kQKTlkwEoZhniizg/edit?utm_content=DAFr0f4UmkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+## Semana 17
+- O trabalho desta semana inclui o relatório técnico, o notebook e os slides de apresentação.
+- Foram adicionadas as Seções III e IV (Metodologia, Resultados e Conclusões).
+- Link para o vídeo de apresentação: [Assista à Apresentação](https://youtu.be/joLUeVVGigA)
+- Link para os slides de apresentação: [Visualizar Slides](https://www.canva.com/design/DAFr0f4UmkE/afFkT4kQKTlkwEoZhniizg/edit?utm_content=DAFr0f4UmkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
